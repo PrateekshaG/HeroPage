@@ -1,2 +1,2 @@
-# Shoes-Nike-Landing-Page
+# Landing-Page
 Online Shoes Store Concept Landing Page
